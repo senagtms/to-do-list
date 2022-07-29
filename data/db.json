@@ -1,0 +1,28 @@
+{
+  "yapilacaklar": [
+    {
+      "id": 1,
+      "baslik": "Kitap Oku",
+      "icerik": "Martin Eden kitabından 15 sayfa oku",
+      "yapildi": true
+    },
+    {
+      "id": 3,
+      "baslik": "Vue Çalış",
+      "icerik": "todo-list serisi bitir",
+      "yapildi": true
+    },
+    {
+      "id": 60,
+      "baslik": "yemek",
+      "icerik": "yemek yap",
+      "yapildi": false
+    },
+    {
+      "id": 65,
+      "baslik": "kedi",
+      "icerik": "Kediye mama ver",
+      "yapildi": false
+    }
+  ]
+}
